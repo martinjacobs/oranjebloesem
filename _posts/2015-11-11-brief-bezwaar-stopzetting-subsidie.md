@@ -2,7 +2,7 @@
 layout: post
 title: "Brief bezwaar stopzetting subsidie"
 modified: 2015-11-11 17:11:09 -0400
-category: [2015]
+category: 2015
 tags: [information]
 comments: 
 share: 

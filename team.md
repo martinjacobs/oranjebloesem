@@ -28,58 +28,77 @@ mapping:
 
 Het onderwijsteam voor de Oranjebloesem bestaat uit de volgende docenten.
 
-##Sandra Lissenburg 
+## Saskia Mulier
 
-######Groep 1/2:  kinderen, 4-6 jaar 
+###### Directeur de Oranjebloesem
 
-Sandra Lissenburg is recent naar Zuid Florida verhuist met haar man en 2 kinderen, en is dit jaar begonnen as leerkracht bij de Oranjebloesem.
+Mijn naam is Saskia Mulier en zal dit jaar het directeurschap op mij nemen. De Oranjebloesem is niet nieuw voor me, van 2011-2012 ben ik samen met mijn oudste dochter actief geweest binnen de school als hulpouder en Yanna was hulp juf bij de kleuters. Wij wonen reeds 6 jaar in Boca Raton, ik ben reeds 23 jaar gehuwd met Kris Elbers, ja ik draag nog steeds mijn meisjesnaam naar Belgische traditie, samen hebben we 3 kids met leeftijden variërend tussen de 20 en 11 jaar. 
 
-In Nederland is Sandra werkzaam geweest als locatiemanager van verschillende kinderdagverblijven, buitenschoolse opvang en peuterzalen in Aalsmeer, Schiphol, Amstelveen en Amsterdam. Haar taak was het aansturen van de verschillende professionele teams op de kinderopvang locaties, daarnaast was mijn rol om de pedagogisch medewerkers op de groepen te ondersteunen bij opvoedkundige vragen. Naast een HBO pedagogische en management studie is Sandra ook getraind en opgeleid als video interactie begeleider. 
+Als ouder ben ik steeds actief geweest in de scholen van onze 3 kinderen zowel in België als hier in de US. Als lid van het ouderraad ben ik actief geweest op verschillende niveaus zoals penningmeester, secretaris, Vice voorzitter, vrijwilliger Coordinator. Voor onze relocatie was ik 13 jaar werkzaam voor het gemeentebestuur van de Stad Antwerpen als administratief assistent en had voordien als algemeen bediende verschillende bedrijfstakken doorlopen. 
 
-##Marielle Mubarak 
+Naast bezige mama, ben ik ook een mompreneur aka zelfstandig  health and fitness Coach met Beachbody. Net zoals jullie kijk ik enorm uit het nieuwe schooljaar en start.
 
-######Groep 3 
 
-Marielle Mubarak woont sinds 1992 in Zuid Florida. Na haar opleiding Havo en Schroevers is zij voor een jaar als aupair naar Zuid Florida gegaan. Weer terug in Nederland kon ze haar draai niet vinden en heeft ze besloten definitief te verhuizen naar Zuid Florida.
+## Karolien De Corte 
 
-De talen hebben altijd haar interesse gehad en ze heeft dan ook veel gewerkt in de toeristische sector (touroperaters en hotel). 
+###### Groep 1 & 2 
 
-Marielle is getrouwd en heeft twee kinderen. 
+Mijn naam is Karolien De Corte en ik ben afkomstig uit Leuven, België. Sinds augustus 2015 woon ik samen met mijn man (Oscar) en zoon (Alexander, 15 jaar) in Delray Beach. 
 
-Sinds  januari 2010 is zij de vaste leerkracht van de combinatiegroep 1 en 2. Ze ziet het als een uitdaging met de kinderen te werken. Ze vindt het erg leuk om te zien hoe de kinderen  zich, in een korte tijd,  ontwikkelen in de Nederlandse taal.  
-Ze is gestart met de studie childcare en heeft het afgelopen jaar al een aantal certificaten gehaald.
+We startten in het najaar van 2015 ons eigen catering bedrijf, Karo’s  Belgian Sweets, en brengen hiermee de beroemde Brusselse Wafels in de vorm van frietjes op de Amerikaanse markt. Daarnaast help ik mijn echtgenoot met de administratie van zijn vertalingsbureau. 
+Van opleiding ben ik kleuteronderwijzeres. Ik kijk er dan ook heel erg naar uit om na heel wat jaren afwezigheid opnieuw voor de klas te staan. In het bijzonder om de kleinste vriendjes van de Oranjebloesem de Nederlandse taal en cultuur bij te brengen. 
 
-##Virgilia Aiken-Coco
+Ik werk heel erg graag met prentenboeken als uitgangspunt om de kleintjes van groep 1 & 2 week na week een leuke en leerrijk Nederlands taalmoment te bezorgen. 
 
-######Groep Hotel Hallo, richting 2 en 3 kinderen, 6-12 jaar
-Virgilia is in 1975 afgestuurd aan de Pedagogische Academie Curaçao N.A.
 
-Ze is in dienst geweest bij het Openbaar Onderwijs op Curacao vanaf 1975-1996 en in het schooljaar 1996-1997 bij De Stichting Amsterdamse Samenwerkende Katholieke Basisscholen gevestigd te Amsterdam. 
 
-Vanaf  oktober 2002 is de familie woonachtig in Zuid Florida. Virgilia is getrouwd met Ansel en is moeder van 3 afgestudeerde kinderen. Virgilia is al sinds 1 augustus 2011 leerkracht bij de Oranjebloesem.
+## Marielle Mubarak 
+
+###### Groep 3 
+
+Mijn naam is Marielle Mubarak en werk sinds een aantal jaren op de Oranjebloesem, waar ik het erg naar mijn zin heb.
+Dit jaar ga ik groep 3 les geven, de meeste kinderen ken ik al sinds de kleuterklas (was een paar jaar kleuterjuf) wij zijn samen doorgroeid naar ieder volgend schooljaar.
+
+Het lesgeven aan uw kinderen is heel speciaal en geeft niet alleen aan de kinderen een kans om Nederlandse les te volgen maar ook aan mij, omdat ik verder thuis niet Nederlands spreek.
+
+In Nederland heb ik de Havo en Schoevers afgerond en ben daarna gaan reizen. Ik woon bijna 25 jaar in Florida met mijn gezin. Ik heb vele hobbies en volg vaak ‘s avonds cursussen bijv, dit jaar mijn GED (high school diploma).
+
+## Virgilia Aiken-Coco
+
+###### Groep 4
+
+Mijn naam is Virgilia en werk sinds 2011 bij de Oranjebloesem en dit jaar ben ik leerkracht  van groep 4.
+
+Ik heb mijn studie als leerkracht afgerond aan de Pedagogische Academie Curacao N.A. Vanaf 1975 tot 1996 was ik werkzaam bij het Openbaar Onderwijs op Curacao. Voor een jaar ben ik  in dienst geweest bij de Stichting Amsterdamse Samenwerkende Katholieke Basis scholen in Amsterdam Nederland. 
+
+Ik ben  getrouwd met Ansel en ben moeder van 3 volwassen kinderen. In 2015 ook grootmoeder geworden van David.
+Met een optimistische blik kijk ik  uit naar het nieuwe schooljaar met het doel om er een succesvol jaar van te maken. 
+Als laatste wil ik aan al de docenten, ou/ders en kinderen een prettig schooljaar toewensen.
+
+
+## Marleen Ariens
+
+###### Groep 5 
+
+Mijn naam is Marleen Ariens en heb 8 jaar geleden, samen met een team van enthousiaste vrijwilligers, welke nu deels het bestuur vormen, de Oranjebloesem opgericht. Tijdens deze jaren heb ik met veel plezier les gegeven en het directeurschap in handen gehad. Ook de samenwerking met het bestuur is altijd erg plezant geweest.
  
-##Lieke Heye
+Ik ben erg dankbaar voor alle leerkrachten die de tijd en energie stoppen in onze kinderen om hen de Nederlandse taal en cultuur bij te brengen maar vooral ook voor het feit dat ze de kinderen een  leuke ochtend  bezorgen.
 
-######Groep 5
-Lieke is sinds vorig jaar leerkracht bij de Oranjebloesem. Na het verhuizen naar Amerika, is ze, om haar Nederlandse achtergrond toch een beetje te behouden is ze  zoek gegaan naar scholen met een Nederlandse insteek en zo kwam ze bij de Oranjebloesem uit. 
+Naast de school heb ik nog andere bezigheden. Er zijn voor mijn gezin, Bart, Jasper en Lisa en  samen met hen leuke dingen doen staat natuurlijk boven aan. Samen sporten of naar sport kijken en steeds maar weer nieuwe dingen in Florida ontdekken.  Ook ben ik nog 3 dagen in de week werkzaam als accounting/HR assistente bij een bedrijf gespecialiseerd in satelliet communicatie.  Met andere woorden, ik zit geen minuut stil.
 
-Andere hobby's naast reizen zijn lezen, acteren en vooral heel veel buiten activiteiten doen. Ze heeft er ontzettend veel zin in om  er dit jaar een leuk, gezellig en leerzaam jaar van te maken.
 
-##Marleen Ariens
+## Ellis van Rennes
 
-######Directrice en leerkracht groep 6 en 7 
-Marleen is de oprichtster van de Oranjebloesem. Marleen is getrouwd met Bart en moeder van 2 kinderen. Marleen en haar gezin zijn 9 jaar geleden naar Weston verhuisd. 
-De kinderen zijn haar inspiratie geweest voor het opstarten van de school in 2010. 
+###### Groep 7 
 
-Marleen is geboren en getogen in Noord-Brabant. Ze heeft planologie en volkshuisvesting gestudeerd, komt uit een onderwijsgezin en heeft affiniteit met onderwijs. Ze heeft in Nederland kinderkampen georganiseerd en ze is  actief voor de kinderen binnen de Nederlandse Vereniging van Zuid Florida.
+Mijn naam is Ellis van Rennes en sinds 3,5 jaar woon ik met mijn man (Erik) en twee zoontjes (Julian en Florian) in Lauderdale by the Sea. Wij zijn hier naar toe gekomen om een bedrijf over te nemen. Dit zijn er inmiddels 4 geworden en ik doe alle boekhoudkundige werkzaamheden voor deze bedrijven. We genieten ontzettend van het wonen, werken en leven hier in Florida.  
+Ik vind het erg belangrijk dat mijn eigen kinderen naast het Engels ook de Nederlandse taal goed beheersen en zie dan ook de uitdaging om me hier bij andere kinderen ook enthousiast voor in te zetten. Daarnaast heb ik altijd bijzondere interesse gehad in het onderwijs. Ik pak deze kans dan ook graag aan om er met groep 7 een leuk en leerzaam jaar van te maken! 
 
-Ze kijkt terug op vier  zeer geslaagde jaren van de Oranjebloesem en kijkt uit naar het nieuwe jaar. 
  
-##Ina Oost
+## Ina Oost
 
-######Invalskracht groep 5, 6 en 7
-Ina is eerst woonachtig geweest in New York en is met haar echtgenoot in de tachtiger jaren naar Zuid Florida verhuisd. Naast het vele reizen voor haar werk in de toeristen branche had Ina een part-time baan bij een taleninstituut voor het onderwijs in Duits en Nederlands aan Amerikaanse zakenmensen die werden overgeplaatst naar Europa.
+###### Invalskracht
+Mijn naam is Ina en ben invalskracht. Ik ben eerst woonachtig geweest in New York en in de tachtiger jaren met mijn (inmiddels overleden) echtgenoot  naar Zuid Florida verhuisd. Naast het vele reizen voor mijn werk in de toeristen sector had ik een part-time baan bij een taleninstituut voor het onderwijs in Duits en Nederlands aan Amerikaanse zakenmensen die werden overgeplaatst naar Europa.
 
-De leerkrachten-positie bleek een natuurlijke roeping. Met een Masters Degree in International Studies/Social Sciences heeft ze intussen een 10-jarige ervaring in het onderwijs bij Broward County’s Public School System.
+De leerkrachten-positie bleek een natuurlijke roeping. Met een Masters Degree in International Studies/Social Sciences heb ik intussen meer dan 10-jaar ervaring in het onderwijs bij Broward County's Public School System.Uit puur idealisme en met enthousiasme heb ik de afgelopen jaren de kinderen heel veel Nederlands geleerd en ook dit jaar  kijk ik  ernaar uit om op invalsbasis de Nederlandse taal aan onze jonge generatie bij de Oranjebloesem te onderwijzen!
 
-Uit puur idealisme en met enthousiasme heeft Ina het afgelopen jaar de kinderen heel veel Nederlands geleerd en ook dit jaar kijkt ze ernaar uit om de Nederlandse taal aan onze jonge generatie bij de Oranjebloesem te onderwijzen!

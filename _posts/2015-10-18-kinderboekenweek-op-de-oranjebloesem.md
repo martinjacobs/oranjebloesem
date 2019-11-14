@@ -2,7 +2,7 @@
 layout: post
 title: "Kinderboekenweek gevierd op de Oranjebloesem"
 modified: 2015-10-31 17:11:09 -0400
-category: [2015]
+category: 2015
 tags: [evenementen]
 comments: 
 share: 

@@ -2,7 +2,7 @@
 layout: post
 title: "Koningsdag 2016"
 modified: 2016-04-30 17:11:09 -0400
-category: [2016]
+category: 2016
 tags: [onderwijs,evenement,dutchschool]
 comments: 
 share: 

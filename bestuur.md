@@ -81,8 +81,8 @@ In de onderstaande folders is het bestuurs materiaal voor de Oranjebloesem te vi
                 <div id="info">
                   Login
                 </div>
-                        <p><label>Username:</label><input type="text" id="email" size="20"/></p>
-                        <p><label>Password:</label><input type="password" id="password" size="20" /></p>
+                        <p><label>Username:</label><input type="text" id="email" size="20"/>
+                        <label>Password:</label><input type="password" id="password" size="20" /></p>
                         <button type="submit" id="login-button">Login</button>
             </div>
       </div>  <!--container --> 

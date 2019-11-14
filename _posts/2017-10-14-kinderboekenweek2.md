@@ -2,7 +2,7 @@
 layout: post
 title: "Kinderboekenweek 2017"
 modified: 2017-11-10 17:11:09 -0400
-category: [2017]
+category: 2017
 tags: [onderwijs,dutchschool]
 comments: 
 share: 

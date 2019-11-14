@@ -21,9 +21,9 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-#Bedrijven:
+# Bedrijven:
 
-####Cum Laude
+#### Cum Laude
 
 * [De Orde van de Prince](http://www.ovdp.net/)	
 
@@ -37,15 +37,15 @@ image:
 
 * [International Shipping and Purchasing Agent,Yoli Wheeler](http://www.shopussa.com)
 
-* [Dutch Goodies, Delicious Treats & Sweets,Kees Meijaard](http://dutchgoodies.biz/)
+* Dutch Goodies, Delicious Treats & Sweets,Kees Meijaard
 
-#Persoonlijke sponsors:
+# Persoonlijke sponsors:
 
-####Gold Star
+#### Gold Star
 
 * Mevrouw Monique Felicia
 
-####Bronze Star
+#### Bronze Star
 
 * Familie Tessel, Nederland
 
@@ -59,7 +59,7 @@ image:
 
 * Alex Michaels
 
-###Lesmateriaal/Boeken:
+### Lesmateriaal/Boeken:
 
 * ['t Klokhuis New York](http://www.klokhuis.com/)
 
@@ -70,6 +70,6 @@ image:
 * [Netherlands Association of South Florida](http://www.dutchclubsouthflorida.com/)
  
  
-###Logo's:
+### Logo's:
 
 * Mevrouw Anke Janssen, Groesbeek

@@ -11,7 +11,7 @@ image:
 ---
 
 
-##Bedankt
+## Bedankt
 
 Bedankt voor uw bericht! We nemen zo spoedig mogelijk contact met u op.
 

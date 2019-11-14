@@ -2,7 +2,7 @@
 layout: post
 title: "Koningsdag op de Oranjebloesem"
 modified: 2018-28-04 17:11:09 -0400
-category: [2018]
+category: 2018
 tags: [onderwijs,dutchschool]
 comments: 
 share: 

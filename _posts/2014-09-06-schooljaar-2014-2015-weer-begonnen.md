@@ -2,7 +2,7 @@
 layout: post
 title: "Schooljaar 2014-2015 weer begonnen"
 modified: 2014-10-27 17:11:09 -0400
-category: [groepen]
+category: groepen
 tags: [groepen]
 image:
   feature: 
@@ -14,9 +14,9 @@ share:
 
 Op 9 september is het nieuwe schooljaar weer begonnen. Dit is inmiddels het 5e schooljaar voor de Oranjebloesem. De groepen zijn weer enthousiast van start gegaan, en we zijn blij weer een aantal nieuwe kinderen te kunnen verwelkomen. Mocht u geinteresseerd zijn om uw kind ook de Nederlandse taal en cultuur bij te brengen, neem dan kontact op met ons via dit [formulier](/aanmelden/).
 
-###We gaan dit jaar van start met 3 groepen:
+### We gaan dit jaar van start met 3 groepen:
 
-####Groep 1/2:  kinderen, 4-6 jaar 
+#### Groep 1/2:  kinderen, 4-6 jaar 
 Deze groep bestaat uit kinderen in de leeftijd van 4-6 jaar die wordt geleid door Marielle Mubarak. In deze groep zitten kinderen [richting 1, 2 en 3](/school/#de-onderwijsgroepen). Kinderen met een geringe achterstand kunnen veel van de andere kinderen leren door in dezelfde omgeving te zijn. Bovendien wordt veel gewerkt met beeldmateriaal en wordt er spelenderwijs met de taal omgegaan. 
 
 Voor deze groep wordt het lesmateriaal ‘de Leessleutel’, speciaal ontwikkeld voor deze leeftijdscategorie, gebruikt. Daarnaast worden diverse taalmaterialen van andere methodes gebruikt (zoals pictogrammen en ‘met woorden in de weer’). 
@@ -29,7 +29,7 @@ In deze groep staan vijf onderdelen van de taalontwikkeling centraal:
 
 De richting 3 kinderen worden op bepaalde momenten apart genomen om gerichter met woordenschat bezig te zijn en de Nederlandstalige kinderen meer aandacht te geven op hun eigen nivo. 
  
-####Groep ‘Hotel Hallo’ richting 2 en 3 kinderen:
+#### Groep ‘Hotel Hallo’ richting 2 en 3 kinderen:
 Deze groep bestaat uit kinderen van 6-12 jaar en bestaat dit jaar met name uit [richting 2 en 3 kinderen](/school/#de-onderwijsgroepen). De groep wordt geleid door Virgilia Aiken, met assistente, Lieke Heye.
 
 Deze groep gaat werken met een nieuwe methode ‘Hotel Hallo’. Deze methode komt naar alle waarschijnlijkheid begin september uit en dient door de directrice en juffrouw bestudeerd te worden alvorens in te kunnen voeren. Waarschijnlijk zal invoering hiervan  in November plaatsvinden, maar mocht het eerder kunnen dan starten we eerder.
@@ -40,7 +40,7 @@ De kinderen in deze groep kunnen goed engels lezen.Tot de tijd dat ‘Hotel Hall
 
 De lessen zullen aansluiten bij de eigen leef- en ervaringswereld van de kinderen.
 
-####Groep 4 t/m 8: Nederlandstalige kinderen, 7-14 jaar 
+#### Groep 4 t/m 8: Nederlandstalige kinderen, 7-14 jaar 
 Deze groep bestaat uit leerlingen in de leeftijd 7-14 jaar, die Nederlandstalig zijn ([richting 1 en 2](/school/#de-onderwijsgroepen)). 
 De groep wordt geleid door Marleen Ariens. De leerlingen in deze groep maken allemaal gebruik van de taalmethode ‘Taal Actief’. Vorig jaar gebruikte we voor deze groep alleen de taalmodule van ‘Taalactief’, maar dit jaar ook spelling en woordenschat. Ook de lesmaterialen ‘Met woorden in de weer’ en ‘Nieuwsbegrip’ worden in de les verwerkt. De taalmethode beslaat de leergangen van groep 4 t/m 8 van het Nederlandse Basisonderwijs. In deze klas wordt aandacht besteed aan: 
 -  mondeling taalgebruik 

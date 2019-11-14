@@ -2,7 +2,7 @@
 layout: post
 title: "Bezoek Inspectie van Onderwijs een success"
 modified: 2016-09-22 17:11:09 -0400
-category: [2016]
+category: 2016
 tags: [onderwijs,dutchschool]
 comments: 
 share: 

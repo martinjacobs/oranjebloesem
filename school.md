@@ -30,17 +30,17 @@ mapping2:
 </section><!-- /#table-of-contents -->
 
 
-Op de Oranjebloesem geven we les in de Nederlandse en Belgische Taal en Cultuur aan kinderen in de leeftijd van 4 t/m 14 jaar, het zogenoemde basisonderwijs. Wij streven ernaar een vaste plaats als promotor van Nederlandse taal en cultuur te verwerven binnen de Nederlandstalige gemeenschap in Zuid-Florida.  
+## Missie
 
-Een gemotiveerd team van leerkrachten voorziet in hoogwaardige lessen voor primair onderwijs (4 tot 14 jaar), met het oog op een eventuele terugkeer in het onderwijs in Nederland of België. De school zal hierbij vanzelfsprekend aansluiten op de kerndoelen van het Nederlands onderwijs
- 
-##Visie
+De Oranjebloesem streeft ernaar een vaste plaats als promotor van Nederlandse taal en cultuur te verwerven binnen de Nederlandstalige gemeenschap in Zuid-Florida.  
 
-* De Oranjebloesem wil de leerlingen een aangenaam en veilig leerklimaat aanbieden.
-* Het onderwijsteam zal juiste taalmethodes selecteren, die aansluiten op de kerndoelen alsmede met het oog op een correcte balans tussen groepsactiviteiten en zelfstandig werken.  
+Een gemotiveerd team van leerkrachten voorziet in hoogwaardige lessen voor primair onderwijs (4 tot 14 jaar), met het oog op een eventuele terugkeer in het onderwijs in Nederland of België. De Oranjebloesem zal in het onderwijsprogramma voldoen aan de kerndoelen van het Nederlands Onderwijs.
+Visie
+-	De Oranjebloesem wil de leerlingen een aangenaam en veilig leerklimaat aanbieden; 
+-	Het onderwijsteam selecteert juiste taalmethodes, die aansluiten op de kerndoelen alsmede met het oog op een correcte balans tussen groepsactiviteiten en zelfstandig werken.
 
+Wij willen bovenstaande bewerkstelligen door minimaal 120 lesuren per jaar aan te bieden (3 uur per week en een aantal culturele middagen), door met interactief onderwijs op verschillende niveaus te werken en door de juiste taalmethoden te gebruiken.
 
-Wij beseffen dat de sfeer waarin een kind opgroeit van groot belang is om een volwaardig mens te worden. Het is daarom belangrijk dat de leerlingen bij ons onderwijs kunnen volgen in een vriendelijke en veilige omgeving, waar orde en regelmaat een rol spelen. Pas als een kind zich veilig voelt, kan het zich ontwikkelen. 
 
 ## Locaties
 <center>
@@ -71,9 +71,7 @@ Davie, FL 33328
 
 
 ## Lestijden
-De lessen vinden plaats op zaterdagochtend van 9.30 am tot 12.30 pm voor lessen in the Multi Purpose Center Davie. 
-
-De lessen in Sjomannskirken vinden plaats van 10.00 am tot 1.00 pm.
+De lessen vinden plaats op zaterdagochtend van 9.30 am tot 12.30 pm .
 
 
 De school volgt de vakantiekalender van Broward County.  
@@ -81,22 +79,23 @@ De school volgt de vakantiekalender van Broward County.
 
 Er zijn geen lessen op de volgende dagen:
  
-	28 november: weekend van Thanksgiving
-	26 december en 2 januari: kerstvakantie
-	26 maart: Springbreak
-	28 mei: weekend Memorial Day
+	1 september: weekend van Labor Day
+	24 november: weekend van Thanksgiving
+	29 en 5 januari: kerstvakantie
+	310 maart: Springbreak
+	25 mei: weekend Memorial Day
   
   
-De laatste lesdag is gepland op **11 juni**.  
+De laatste lesdag is gepland op **1 juni**.  
 
 
 Ook zal er een aantal middagen een cultuurmiddag georganiseerd worden. Voorlopig zijn die vastgesteld op: 
  
-	17 oktober: kinderboekenweek
-	5 december: sinterklaas
-	20 februari: winteractiviteit
-	30 april: koningsdag
-    11 juni: laatste schooldag
+	13 oktober: kinderboekenweek
+	1 december: sinterklaas
+	24 maart: winteractiviteit
+	27 april: koningsdag
+    1 juni: laatste schooldag
 
 ## De onderwijsgroepen
 De activiteiten voor de leerlingen zijn gebaseerd op de kerndoelen voor Nederlandse taal zoals die zijn opgesteld door het Nederlandse ministerie van Onderwijs, Cultuur en Wetenschappen. De kerndoelen zijn streefdoelen voor wat leerlingen moeten kennen en kunnen aan het eind van de basisschool.  
@@ -115,30 +114,32 @@ Wij proberen het onderwijs zo in te richten, dat er rekening wordt gehouden met 
 
 * **Richting 3:** Deze leerlingen leren Nederlands als vreemde taal. 
 
-De school heeft op dit moment 5 groepen:
+De school heeft op dit moment 6 groepen:
 
-* Groep 1 en 2, kinderen, 4-6 jaar
-* Groep 3, kinderen, 6-7 jaar
-* Groep Hotel Hallo, richting 2 & 3 kinderen
-* Groep 5, nederlandstalige kinderen, 7-8 jaar 
-* Groep 6 en 7, nederlandstalige kinderen, 8-10 jaar 
+* Combinatie groep 1 en 2 kleuters
+* Groep 3a en 3 b: de leesgroep 
+* Groep 4
+* Groep 6
+* Groep 7/8 
   
-In de schoolgids en op deze website (onder [laatste nieuws](/%5B"groepen"%5D/schooljaar-2014-2015-weer-begonnen/index.html) kunt u meer informatie vinden betreffende de inhoud van de lessen bij de verschillende groepen.
+In de [Schoolgids 2018 - 2019](/leerlingen/index.html#Algemene%20Informatie/) kunt u meer informatie vinden betreffende de inhoud van de lessen bij de verschillende groepen.
 
 
-##Het onderwijsteam
+## Het onderwijsteam
 
-| Naam | Groep | Funktie |
-|:--------|:-------:|------:|
-| Sandra Lissenburg   | groep 1 & 2   | Groepsleider  |
+| Naam | Groep  |
+|:--------|:-------:|
+| Karolien De Corte   | groep 1 & 2     |
 |----
-| Marielle Mubarak   | groep 3   | Groepsleider  |
+| Marielle Mubarak   | groep 4    |
 |----
-| Virgilia Aiken   | groep Hotel Hallo, richting 2 & 3   | Groepsleider  |
+| Virgilia Aiken   | groep 5 & 6    |
 |----
-| Lieke Heye   | groep 5   | Groepsleider  |
+| Marleen Ariens   | groep 7 & 8     |
 |----
-| Marleen Ariens | groep 6 & 7   |  Groepsleider  |
+| Saskia Mulier | Directeur     |
+|----
+| Ina Oost | Invalskracht    |
 |----
 |=====
 {: rules="groups"}
@@ -153,24 +154,22 @@ Het bestuur van het Dutch Learning Center, Inc. bestaat uit de volgende personen
 
 | Naam | Funktie |
 |:--------|--------:|
-| Caroline Sucaet | Voorzitter  |
+| Sylvie Bove | Voorzitter  |
 |----
-| Martin Jacobs | Secretaris  |
+| Oscar Hilderson | Secretaris  |
 |----
-| Henriette van den Berg | Penningmeester  |
+| Greet Meeusen | Penningmeester  |
 |----
-| Suzanne Hakema | Bestuurslid  |
+| Bjorn Vandemeulenbroucke  | Bestuurslid  |
 |----
-| Arnaud Mens | Bestuurslid  |
+| Guido Kamps  | Bestuurslid  |
 |=====
 {: rules="groups"}
 
  
-De belangrijkste taak van het bestuur is het maken van beleid en het toezicht op de uitvoering daarvan. De directeur van de school, met zijn team, voert dit beleid uit. Dit is de ideale rolverdeling en ook de werkwijze die het bestuur van de 'corporation' in de toekomst wenselijk acht. Op dit moment is de school echter in een beginfase en om de druk op het onderwijsteam niet te groot te laten zijn zal het bestuur het onderwijsteam ondersteunen bij het uitvoeren van het beleid.
- 
-De directrice blijft echter verantwoordelijk voor de uitvoering en inbedding van het onderwijsbeleid. Het is de bedoeling om over te gaan op een structuur waarbij het bestuur en dagelijkse leiding een striktere functiescheiding krijgen.
+De belangrijkste taak van het bestuur is het maken van een beleid en het toezicht houden op de uitvoering daarvan. De directrice van de school, met haar team, voert dit beleid uit. De directrice is met name verantwoordelijk voor de opzet, de uitvoering en de inbedding van het onderwijsbeleid. Voor bestuurlijke vragen is Sylvie Bove het aanspreekpunt. Heeft u financiële vragen, dan kunt u direct contact opnemen met Greet Meeusen . Voor vragen m.b.t. het onderwijs en het reilen en zeilen op de school kunt u bij de leerkracht van de groep of de directrice terecht.
 
-##NOB
+## NOB
 
 De Oranjebloesem is aangesloten bij de stichting [Nederlands Onderwijs in het Buitenland](http://www.nob.nl). 
 
@@ -185,3 +184,15 @@ Dit betekent voor onze school dat we advies krijgen van het NOB op o.a. de volge
 *	geven van cursussen
 
 Het NOB heeft enorm bijgedragen aan de ontwikkeling van de school waar hij nu staat.  
+
+## Uitgangspuntem
+
+De subsidie die het Ministerie van Onderwijs en Cultuur aan buitenlandse scholen verstrekt, vervalt helaas per dit schooljaar. Natuurlijk zal het NOB de scholen in het buitenland blijven ondersteunen, maar met minder financiële ruimte zal dit moeilijker of in ieder geval anders worden. Wat de consequenties zullen zijn voor onze school moet in de toekomst bezien worden. Er wordt nauw overleg gevoerd over de ontwikkelingen hiervan met het NOB.  
+
+De school kent een aantal uitgangspunten die belangrijk zijn voor de identiteit van de school: 
+-	alle leerlingen zijn gelijkwaardig;
+-	wij accepteren geen discriminatie en racisme;
+-	wij hebben eerbied voor ieders geloofsovertuiging of levensbeschouwing.
+Binnen de Oranjebloesem wordt gestreefd naar een goede samenwerking, gebaseerd op wederzijds respect, vertrouwen en inspiratie. 
+
+We beseffen dat de sfeer waarin een kind opgroeit van groot belang is om een volwaardig persoon te worden. Het is daarom belangrijk dat de leerlingen bij ons onderwijs kunnen volgen in een vriendelijke en veilige omgeving waar orde en regelmaat een rol spelen. Pas als een kind zich veilig voelt, kan het zich ontwikkelen. De Oranjebloesem biedt deze  omgeving aan uw kind. 

@@ -2,13 +2,13 @@
 layout: post
 title: "Uitnodiging opendeur dag - 25 augustus 2018"
 modified: 2018-08-05 17:11:09 -0400
-category: [2018]
+category: 2018
 tags: [onderwijs,dutchschool]
 comments: 
 share: 
 ---
 
-###Nederlandse versie
+### Nederlandse versie
 
 Onze eerste schooldag zal dit jaar net iets anders zijn en daarom nodigen we jullie graag uit voor onze allereerste opendeur.
 
@@ -27,7 +27,7 @@ Bekijk ook onze [brochure](/assets/documents/Uitnodigingopendeurdag.pdf) voor me
 
 <br/>
 
-###English version:
+### English version
 
 With great pleasure we would like to invite you to our first open house. 
 

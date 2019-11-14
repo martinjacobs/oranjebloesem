@@ -2,7 +2,7 @@
 layout: post
 title: "Nieuwe directeur Oranjebloesem en andere zaken"
 modified: 2016-12-31 17:11:09 -0400
-category: [2016]
+category: 2016
 tags: [onderwijs,dutchschool]
 comments: 
 share: 

@@ -2,7 +2,7 @@
 layout: post
 title: "Winter Olympische spelen"
 modified: 2018-17-03 17:11:09 -0400
-category: [2018]
+category: 2018
 tags: [onderwijs,dutchschool]
 comments: 
 share: 

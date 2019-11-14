@@ -1,8 +1,13 @@
 backend:
   name: github
-  repo: martinjacobs/oranjebloesem_cms # Path to Github repository
+  repo: martinjacobs/oranjebloesem # Path to Github repository
   branch: master # Branch to update
+  preview_context: deploy-preview
+  show_preview_links: true
+  site_url: https://www.deoranjebloesem.org
 
+
+publish_mode: editorial_workflow
 
 media_folder: images     # Media files will be stored in the repo under images
 public_folder: /images     # The src attribute for uploaded media will begin with /images
@@ -13,6 +18,7 @@ collections:
     folder: "_posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
+    preview_path: posts/{{slug}}
     filter:
       - field: publication_url
       - value: ""
@@ -21,13 +27,11 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "modified", widget: "datetime"}
       - {label: "Categories", name: "category", widget: "string"}
-      - {label: "Tags", name: "tags", widget: "string", required: false}
+      - {label: "Tags", name: "tags", widget: "list", required: false}
       - {label: "Comments", name: "comments", widget: "string",required: false}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
-    editor:
-      preview: false
     files:
       - label: "School"
         name: "school"
@@ -40,6 +44,15 @@ collections:
         name: "team"
         file: "team.md"
         fields:
-          - { label: "Title", name: "title", widget: "hidden", default: "Informatie over de school" }
+          - { label: "Title", name: "title", widget: "string", default: "Informatie over de school" }
+          - { label: "Tagline", name: "tagline", widget: "string", default: "Het onderwijsteam" }
+          - { label: "Permalink", name: "permalink", widget: "hidden", default: "/team/index.html" }
           - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Tags", name: "tags", widget: "list", required: false}
+          - { label: "Publish Date", name: "modified", widget: "datetime"}
+          - label: "Image"
+            name: "image"
+            widget: "object"
+            fields:
+              - { label: "feature", name: "feature", widget: "image", default: "canal.jpg" }
           - { label: "Body", name: "body", widget: "markdown" }

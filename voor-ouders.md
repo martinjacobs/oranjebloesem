@@ -18,7 +18,7 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-#####Het belang van de betrokkenheid van ouders
+##### Het belang van de betrokkenheid van ouders
 Van ouders en groepsleiders wordt verwacht dat zij handelen in het belang van het kind. Daarom vinden wij een goede samenwerking erg belangrijk. Om daarvoor te zorgen maken we het onderwijs voor u zo toegankelijk mogelijk en doen we ons best u goed te informeren. 
 
 Met uitzondering van persoonlijke dossiers van groepsleiders en leerlingen 
@@ -28,7 +28,7 @@ Voor een goede communicatie tussen u en ons is het van belang dat we vertrouwen,
 
 We willen hier graag het belang benadrukken van een constante stimulering in het gebruik van het Nederlands voor alle leerlingen en in het bijzonder bij kinderen voor wie het Nederlands niet de eerste taal is.
 
-#####Informatie voorziening aan ouders
+##### Informatie voorziening aan ouders
 De Oranjebloesem vindt het belangrijk om u goed op de hoogte te houden van de gang van zaken op school. Naast deze jaarlijkse schoolgids, organiseren we bij de opening een informatiebijeenkomst voor de ouders en leerlingen. Op deze bijeenkomst krijgt u informatie van het onderwijs en de school. Regelmatig worden de ouders per e-mail en/of lesbrieven op de hoogte gesteld over culturele activiteiten en andere speciale activiteiten.
 
 Ouders en verzorgers kunnen een gesprek tot stand brengen wanneer ze vragen hebben over de resultaten van hun kind. In gevallen waarin de groepsleider een gesprek met de ouders of verzorgers noodzakelijk acht, zal zij uiteraard het initiatief daartoe nemen. Er worden twee maal per jaar 10 minuten gesprekjes georganiseerd (zie ook hoofdstuk de zorg voor uw kind).
@@ -37,7 +37,7 @@ Minimaal eenmaal per jaar is er een ouderavond. Tijdens de ouderavond krijgen ou
 Daarnaast heeft de school deze website, waar alle relevante informatie terug te vinden is. 
 
 
-#####Ouderactiviteiten
+##### Ouderactiviteiten
 
 Ouders zijn welkom om als vrijwilliger op school te helpen als leesmoeder/vader, of te werken met kleine groepjes kinderen onder toezicht van de groepsleider. Ook wordt er een beroep op ouders gedaan om te helpen bij speciale evenementen en activiteiten, zoals de cultuurmiddagen.
 
@@ -48,11 +48,113 @@ De lessen van de kinderen zullen effectiever zijn met een hulpvader of moeder in
 
 ## Ondersteuning thuis
 
-De Oranjebloesem gebruikt verschillende websites en applicaties voor het onderwijs. De lijst is hieronder:
- 
-* [www.citotrainer.nl](http://www.citotrainer.nl)
+#### Tips om thuis de Nederlandse taalontwikkeling te stimuleren (algemeen)
 
-* [www.eduboek.nl](http://www.eduboek.nl)
+
+- Spreek thuis zoveel mogelijk Nederlands of maak afspraken wanneer en met
+wie Nederlands wordt gesproken.
+- Geef het goede voorbeeld door volledig Nederlands te spreken met complete
+zinnen, zonder al teveel buitenlandse termen te gebruiken.
+- Laat kinderen gebruik maken van Nederlandse media.
+- Probeer de kinderen ieder jaar een paar weken in de vakantie in
+Nederland/België te laten logeren. De taalontwikkeling maakt vaak een
+enorme sprong als ze een paar weken alleen Nederlands spreken en met
+Nederlandstalige kinderen spelen.
+- Moedig tussentijds e-mail of telefonisch contact met bekenden uit Nederland
+aan.
+- Lees regelmatig voor uit Nederlandse boeken die aansluiten bij hun
+belevingswereld. Maak hierbij gebruik van je lidmaatschap van de Nederlandse bilbiotheek, die je via de Oranjebloesem kunt krijgen. 
+- Zing regelmatig Nederlandstalige liedjes en luister naar Nederlandstalige cd’s
+of luisterboeken. Draai de cd’s bijvoorbeeld in de auto.
+- Laat kinderen bij een bezoek aan Nederland zelf boeken uitkiezen in een
+leuke kinderboekenwinkel.
+- Speel samen Nederlandse spelletjes waarin taal een belangrijke rol speelt
+zoals Scrabble, Pim-pam-pet, triviant junior.
+
+#### Tips voor thuis om het leesonderwijs te stimuleren
+- Zorg voor leesplezier; maak er een gezellig en ontspannen moment van zodat
+uw kind meer zin heeft om thuis, samen met u te lezen.
+- Als ouder bent u een voorbeeldfiguur voor de kinderen. Een kind kan
+gemotiveerd raken om te lezen wanneer hij ziet dat zijn ouders ook veel
+plezier beleven aan het lezen van een Nederlands boek.
+- Kinderen vinden het vaak heerlijk om voorgelezen te worden. Een rustig
+moment op de dag. Zorg ervoor dat er verschillende soorten boeken zijn die
+aansluiten bij de belevingswereld en het niveau van het kind.
+- In boeken wordt het AVI-niveau aangegeven. Dit staat voor Analyse Van
+Individualiseringsvormen. De verschillen in niveaus zijn terug te voeren op de
+woord– en zinskenmerken van een tekst. Het niveau geeft de leesprestaties
+van de kinderen aan evenals de moeilijkheidsgraad van boeken en teksten.In het rapport van je kunt staat het leesnivo aangegeven
+- Veel boeken hebben een niveau indeling gebaseerd op het oude AVI. Op
+nieuwe boeken zal het vernieuwde AVI niveau vermeld staan. Voor het
+omzetten van oude AVI naar vernieuwde AVI kan het hieronder toegevoegde
+schema gebruikt worden:
+
+    | Oude AVI | Nieuwe AVI  |
+|:--------|:-------:|
+| 1 | AVI-Start |
+|----
+| 1-2 | AVI-M3 |
+|----
+| 2-3 | AVI-E3 |
+|----
+| 3-4-5 | AVI-M4 |
+|----
+| 4-5-6 | AVI-E4 |
+|----
+| 5-6 | AVI-M5 |
+|----
+| 6-7-8 | AVI-E5 |
+|----
+| 7-8-9 | AVI-M6 |
+|----
+| 8-9 | AVI-E6 |
+|----
+| 8-9-9+ | AVI-M7 |
+|----
+| 9+ | AVI-E7 |
+|----
+| 9+ | AVI-plus |
+|----
+|=====
+{: rules="groups"}
+
+    
+Weet u niet op welk niveau uw kind leest, dan kunt u dit altijd aan een van de leerkrachten vragen.
+
+#### Handige websites
+
+###### Groep 1 en 2
+
+Applicaties:
+
+- letter flitsen vor kinderen-juf Jannie,
+- juf jannie en cijfers, 
+- taal en woordenschat-de zee- 
+- juf jannie leer me de woorden, woorden leren, spelletjes om kleuters te leren lezen, leren lezen en schrijven
+
+###### Groep 3
+
+Applicaties:
+
+-  juf jannie leer me de woorden, woorden leren, spelletjes om kleuters te leren lezen, leren lezen en schrijven
+
+###### Groep 5,6, 7 en 8 
+Applicaties:
+
+- malberg spellingsapp taalactief
+- bru-taal
+- spelling in beeld
+- muiswerk woordenboek
+
+Informatieve you tube afleveringen:
+
+-	Zoek op ‘Staal Bethesda’ en je vindt daar allerlei uitleginstructies over diverse spellingsregels. Worden in de klas gebruikt, maar handig als naslagwerk thuis.
+-	[www.citotrainer.nl](http://www.citotrainer.nl). Kies de groep waar je in zit en je kunt oefenen op diverse taalgebieden
+-	[Maken van woordzoekers voor de spellingwoorden](http://tools.atozteacherstuff.com/word-search-maker/wordsearch.php)
+
+#### Algemene websites voor ouders
+
+De Oranjebloesem gebruikt verschillende websites en applicaties voor het onderwijs. De lijst is hieronder:
 
 * [www.stichtingnob.nl (algemeen)](http://www.stichtingnob.nl)
 
@@ -66,14 +168,9 @@ De Oranjebloesem gebruikt verschillende websites en applicaties voor het onderwi
 	het	ministerie van OCW.
 * [www.ikenko.nl (groep 1 en 2)](http://www.ikenko.nl)
 
-	Kleurrijke website waarin je alles te weten komt over Ko (deze emethode 	gebruikt de Oranjebloesem niet, maar is wel leuk om met uw kind te bekijken). 	Uitgebreide
+	Kleurrijke website waarin je alles te weten komt over Ko (deze methode 	gebruikt de Oranjebloesem niet, maar is wel leuk om met uw kind te bekijken). 	Uitgebreide
 	beschrijvingen over de thema’s, alles over de tv-uitzendingen en leuke
 	kleurplaten voor de kinderen.
-* [www.danielbilliau.be (groep 3)](http://www.danielbilliau.be)
-
-	Op deze website kunnen de kinderen oefenen met lezen op snelheid op hun
-	eigen niveau. Er staan heel veel verschillende teksten. Er staan ook oefeningen op met
-	begrijpend lezen. Kies op de balk voor het menu oefeningen en dan komt u in het 	veilig leren lezen katern.  U kunt vervolgens de kern kiezen waar uw kind mee 	bezig is.
 * [www.veiliglerenlezen.nl (groep 3)](http://www.veiliglerenlezen.nl)
 
 	Op deze website vindt u allerlei informatie over de methode waar uw kind mee werkt 	in de klas. Ook zijn er leuke oefeningen/spelletjes die uw kind kan doen. Via deze 	website is ook een app te     downloaden voor uw smartphone. 
@@ -96,9 +193,26 @@ De Oranjebloesem gebruikt verschillende websites en applicaties voor het onderwi
 	meezingen met bekende en minder bekende liedjes van nu en vroeger. Er zijn
 	verschillende categorieën (waaronder ook Sinterklaas en Kerst) en overal zijn
 	songteksten bijgevoegd.
+    
+* [www.uitzendinggemist.nl](http://www.uitzendinggemist.nl)
+
+	Nederlandse televisie voor iedereen. Interessant: ‘t klokhuis, jeugdjournaal, Zappelin(2-5 jarigen), Zap (6-12 jarigen) en nog veel meer. Zoek via genre.
+
+* Leerzame IPAD apps voor Nederlandse taal
+    
+    [Juf Jannie](https://itunes.apple.com/us/app/letters-leren-lezen-juf-jannie/id510590053?mt=8)
+    
+    
+    [Woorden!](https://itunes.apple.com/us/app/muiswerk-woordenboek/id482542354?mt=8)
+    
+    
+    [Leer lezen](https://itunes.apple.com/us/app/leer-lezen/id515842283?mt=8)
+    
+    
+    [leesplankje](https://itunes.apple.com/us/app/leesplankje/id388417423?mt=8)
 
 
-####Wat kunt u nog meer allemaal thuis doen?
+#### Wat kunt u nog meer allemaal thuis doen?
 
 * het alfabet oefenen
 * de klanken oefenen
@@ -112,7 +226,7 @@ De Oranjebloesem gebruikt verschillende websites en applicaties voor het onderwi
 * herhalen van woordbetekenissen
 * oefenen met de lidwoorden
 
-####Spelen met andere kinderen
+#### Spelen met andere kinderen
 
 Onderzoek de mogelijkheid om het contact dat uw kind heeft met andere
 Nederlandstalige kinderen, verder uit te breiden. Stimuleer de kinderen om
@@ -138,9 +252,9 @@ Spelletjes om samen te doen:
 
 ## Schoolgids
 
-Via onderstaande link hebt u toegang tot de schoolgids 2015/2016. Hierin vindt u alle belangrijke informatie betreffende dit schooljaar.
+Via onderstaande link hebt u toegang tot de schoolgids 2017/2018. Hierin vindt u alle belangrijke informatie betreffende dit schooljaar.
 
-[Schoolgids 2015 - 2016](/leerlingen/index.html#Algemene%20Informatie/) 
+[Schoolgids 2018 - 2019](/leerlingen/index.html#Algemene%20Informatie/2018/) 
 
 ## Klachten procedure
 Onze school heeft een klachtenregeling. Wanneer een ouder of een leerling een klacht heeft over de school of over een medewerker van de school dan kan hier gebruik van worden gemaakt. Uitgangspunt van de klachtenregeling is dat klachten, problemen, vragen en dergelijke in eerste instantie worden aangekaart bij degene die direct met de kwestie te maken heeft. 
@@ -150,14 +264,14 @@ Een ouder met bijvoorbeeld een klacht over (het lesgeven van) een groepsleider, 
 Bij een klacht wordt altijd een stappenplan gevolgd. Dat ziet er als volgt uit:
 
  
-#####Stap 1
+##### Stap 1
 De ouders nemen de klacht rechtstreeks op met de groepsleider.
  
-#####Stap 2
+##### Stap 2
 Vinden de ouders en/of groepsleider geen bevredigende oplossing voor het probleem, dan wordt het probleem voorgelegd aan een contactpersoon van het bestuur.
  
-#####Stap 3
+##### Stap 3
 Indien ook na het overleg met de contactpersoon de kwestie niet bevredigend kan worden opgelost, wordt de zaak voorgelegd aan het gehele schoolbestuur. Deze zal in voortdurend overleg met de groepsleider (en eventueel met de ouders) de kwestie bezien en hopelijk tot een oplossing kunnen brengen.
  
-#####Stap 4
-Het zou kunnen zijn dat zich een situatie voordoet waarin de ouders of verzorgers er de voorkeur aan geven hun klacht aan een onafhankelijke derde voor te leggen. Voor dit doel heeft de Oranjebloesem mevrouw Esther Rosenberg bereid gevonden om als vertrouwenspersoon van onze school op te treden.
+##### Stap 4
+Het zou kunnen zijn dat zich een situatie voordoet waarin de ouders of verzorgers er de voorkeur aan geven hun klacht aan een onafhankelijke derde voor te leggen. Voor dit doel heeft de Oranjebloesem mevrouw Esther Rosenberg bereid gevonden om als vertrouwenspersoon van onze school op te treden. Haar contactgegevens staan vermeld in de [Schoolgids 2018 - 2019](/leerlingen/index.html#Algemene%20Informatie/2018/) 

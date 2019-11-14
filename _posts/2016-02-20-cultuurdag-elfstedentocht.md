@@ -2,7 +2,7 @@
 layout: post
 title: "Elfstedentocht bij de Oranjebloesem"
 modified: 2016-03-01 17:11:09 -0400
-category: [2016]
+category: 2016
 tags: [onderwijs,evenement,dutchschool]
 comments: 
 share: 
