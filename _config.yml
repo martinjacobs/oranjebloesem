@@ -1,7 +1,8 @@
 title:            De Oranjebloesem
 description:      De Oranjebloesem - De Nederlandse School in Zuid Florida
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://www.deoranjebloesem.org
+url:              https://www.deoranjebloesem.org
+
 disqus_shortname:
 
 # Owner/author information
@@ -12,7 +13,7 @@ owner:
   email:          deoranjebloesem@yahoo.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:
-  facebook:       
+  facebook:       de.oranjebloesem
   github:
   stackoverflow:
   linkedin:
@@ -45,11 +46,11 @@ links:
     url: /leerlingen/
   - title: Sponsors
     url: /sponsors/
-  - title: Aanmelden
+  - title: Aanmelden & Vragen
     url: /aanmelden/
 
 mapping:
-    provider: google_static
+    provider: google_static 
     zoom: 10
     dimensions:
         width: 300
@@ -69,7 +70,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..4
-  use_coderay: false
+  enable_coderay: false
 
   coderay:
     coderay_line_numbers:

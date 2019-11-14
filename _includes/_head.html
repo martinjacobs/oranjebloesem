@@ -105,3 +105,19 @@
 <!-- 144x144 (precomposed) for iPad 3rd and 4th generation 
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/apple-touch-icon-144x144-precomposed.png">
 -->
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#ffc006"
+    },
+    "button": {
+      "background": "#ffa306"
+    }
+  },
+  "theme": "edgeless"
+})});
+</script>
