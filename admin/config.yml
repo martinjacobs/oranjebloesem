@@ -38,13 +38,36 @@ collections:
         file: "school.md"
         fields:
           - { label: "Title", name: "title", widget: "hidden", default: "Informatie over de school" }
+          - { label: "Tagline", name: "tagline", widget: "string", default: "Informatie over de school" }
+          - { label: "Permalink", name: "permalink", widget: "hidden", default: "/school/index.html" }
           - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Tags", name: "tags", widget: "list", required: false}
+          - { label: "Publish Date", name: "modified", widget: "datetime"}
+          - label: "Image"
+            name: "image"
+            widget: "object"
+            fields:
+              - { label: "feature", name: "feature", widget: "image", default: "background7.jpg" }
+              - { label: "credit", name: "credit", widget: "string", default: "VVV Den Bosch" }
+              - { label: "creditlink", name: "creditlink", widget: "string", default: "http://www.vvvdenbosch.nl" }
+          - label: "Mapping"
+            name: "mapping"
+            widget: "object"
+            fields:
+              - { label: "latitude", name: "latitude", widget: "string", default: "26.078351" }
+              - { label: "longitude", name: "longitude", widget: "string", default: "-80.265830" }
+          - label: "Mapping2"
+            name: "mapping2"
+            widget: "object"
+            fields:
+              - { label: "latitude", name: "latitude", widget: "string", default: "26.08355" }
+              - { label: "longitude", name: "longitude", widget: "string", default: "-80.312540" }
           - { label: "Body", name: "body", widget: "markdown" }
       - label: "Team"
         name: "team"
         file: "team.md"
         fields:
-          - { label: "Title", name: "title", widget: "string", default: "Informatie over de school" }
+          - { label: "Title", name: "title", widget: "string", default: "Het onderwijsteam" }
           - { label: "Tagline", name: "tagline", widget: "string", default: "Het onderwijsteam" }
           - { label: "Permalink", name: "permalink", widget: "hidden", default: "/team/index.html" }
           - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
@@ -55,4 +78,20 @@ collections:
             widget: "object"
             fields:
               - { label: "feature", name: "feature", widget: "image", default: "canal.jpg" }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: "Voor Ouders"
+        name: "voor-ouders"
+        file: "voor-ouders.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string", default: "Informatie voor ouders" }
+          - { label: "Description", name: "description", widget: "string", default: "Informatie voor ouders" }
+          - { label: "Permalink", name: "permalink", widget: "hidden", default: "/voor-ouders/index.html" }
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Tags", name: "tags", widget: "list", required: false}
+          - { label: "Publish Date", name: "modified", widget: "datetime"}
+          - label: "Image"
+            name: "image"
+            widget: "object"
+            fields:
+              - { label: "feature", name: "feature", widget: "image", default: "utrecht.jpg" }
           - { label: "Body", name: "body", widget: "markdown" }
