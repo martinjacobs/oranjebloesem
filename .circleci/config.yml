@@ -22,7 +22,6 @@ jobs:
               aws s3 sync _site s3://stage.deoranjebloesem.org
               ./s3deploy -v -source=./_site -region=us-east-1 -bucket=stage.deoranjebloesem.org
             fi
-  deploy:
 workflows:
   version: 2
   build:
