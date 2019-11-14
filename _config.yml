@@ -1,0 +1,82 @@
+title:            De Oranjebloesem
+description:      De Oranjebloesem - De Nederlandse School in Zuid Florida
+# Your site's domain goes here. Leave localhost server or blank when working locally.
+url:              http://www.deoranjebloesem.org
+disqus_shortname:
+
+# Owner/author information
+owner:
+  name:           Oranjebloesem
+  avatar:         logo.jpg
+  bio:            "De Nederlandse school in Zuid Florida"
+  email:          deoranjebloesem@yahoo.com
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  twitter:
+  facebook:       
+  github:
+  stackoverflow:
+  linkedin:
+  instagram:
+  lastfm:
+  tumblr:
+  pinterest:
+  foursquare:
+  steam:
+  dribbble:
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:
+
+# Analytics and webmaster tools stuff goes here
+google_analytics: UA-56172914-1
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: Nieuws
+    url: /nieuws/
+  - title: De School
+    url: /school/
+  - title: Voor Ouders
+    url: /voor-ouders/
+  - title: Voor Leerlingen
+    url: /leerlingen/
+  - title: Sponsors
+    url: /sponsors/
+  - title: Aanmelden
+    url: /aanmelden/
+
+mapping:
+    provider: google_static
+    zoom: 10
+    dimensions:
+        width: 300
+        height: 200
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/New_York
+future:      true
+highlighter: pygments
+markdown:    kramdown
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title/index.html
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..4
+  use_coderay: false
+
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "lambda", "LICENSE", "README.md", "deploy.sh", "Gemfile*"]
