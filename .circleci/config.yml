@@ -8,20 +8,14 @@ jobs:
     steps:
       - checkout
       - run: curl -L https://github.com/bep/s3deploy/releases/download/v2.0.1/s3deploy_2.0.1_Linux-64bit.tar.gz | tar xvz
-#      - run: apk add --update python python-dev py-pip build-base
-#      - run: pip install awscli
-#      - run: bundle install
       - run: bundle exec jekyll build
       - deploy:
           name: Deploy Release to GitHub
           command: |
             if [ $CIRCLE_BRANCH == 'master' ]; then
               ./s3deploy -source=./_site -region=us-east-1 -bucket=stage.deoranjebloesem.org
-#              echo "Master branch, updating production"
-#              aws s3 sync ./_site s3://stage.deoranjebloesem.org
             else
               ./s3deploy -source=./_site -region=us-east-1 -bucket=stage.deoranjebloesem.org
-              echo "Not master branch, updating staging"
             fi
 workflows:
   version: 2
