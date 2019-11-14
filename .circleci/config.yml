@@ -3,8 +3,8 @@ orbs:
   jekyll: felicianotech/jekyll@0.1.0
 jobs:
   deploy:
-#    docker:
-#      - image: circleci/ruby:2.4.3-node-browsers
+    docker:
+      - image: cibuilds/jekyll:latest
     steps:
       - checkout
       - run: curl -L https://github.com/bep/s3deploy/releases/download/v2.0.1/s3deploy_2.0.1_Linux-64bit.tar.gz | tar xvz
