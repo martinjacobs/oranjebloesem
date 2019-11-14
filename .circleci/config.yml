@@ -17,7 +17,7 @@ jobs:
           command: |
             if [ $CIRCLE_BRANCH == 'master' ]; then
               ./s3deploy -source=./_site -region=us-east-1 -bucket=stage.deoranjebloesem.org
-              echo "Master branch, updating production"
+#              echo "Master branch, updating production"
 #              aws s3 sync ./_site s3://stage.deoranjebloesem.org
             else
               ./s3deploy -source=./_site -region=us-east-1 -bucket=stage.deoranjebloesem.org
