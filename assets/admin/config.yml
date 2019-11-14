@@ -1,0 +1,40 @@
+backend:
+  name: gitlab
+  branch: cms # Branch to update (optional; defaults to master)
+  repo: martinjacobs/oranjebloesem # Path to your GitLab repository
+  auth_type: implicit # Required for implicit grant
+  app_id: 5d01c49077a445369304fbdb677d3e7978fa79e322f28be7678bf8c2170db60f # Application ID from your GitLab settings
+
+# These lines should *not* be indented
+media_folder: 'images/' # Media files will be stored in the repo under site/static/images/uploads
+public_folder: '/images/' # The src attribute for uploaded media will begin with /images/uploads
+
+collections:
+  - name: 'artikel' # Used in routes, e.g., /admin/collections/blog
+    label: 'artikel' # Used in the UI
+    folder: '_posts' # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: '{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'blog' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Featured Image', name: 'thumbnail', widget: 'image' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'Pages'
+    label: 'pages'
+    files:
+      - label: "school"
+        name: "school"
+        file: "school.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: 'markdown'}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+      - label: "leerlingen"
+        name: "leerlingen"
+        file: "leerlingen.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: 'markdown'}
