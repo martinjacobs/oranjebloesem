@@ -10,15 +10,19 @@ jobs:
       - run: curl -L https://github.com/bep/s3deploy/releases/download/v2.0.1/s3deploy_2.0.1_Linux-64bit.tar.gz | tar xvz
       - run: bundle install
       - run: bundle exec jekyll build
+      - run: sudo pip install awscli
       - deploy:
           name: Deploy Release to GitHub
           command: |
             if [ $CIRCLE_BRANCH == 'master' ]; then
               echo "access key" $AWS_ACCESS_KEY
+              aws s3 sync _site s3://stage.deoranjebloesem.org
               ./s3deploy -v -source=./_site -region=us-east-1 -bucket=stage.deoranjebloesem.org
             else
+              aws s3 sync _site s3://stage.deoranjebloesem.org
               ./s3deploy -v -source=./_site -region=us-east-1 -bucket=stage.deoranjebloesem.org
             fi
+  deploy:
 workflows:
   version: 2
   build:
