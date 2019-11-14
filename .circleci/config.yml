@@ -14,9 +14,9 @@ jobs:
           name: Deploy Release to GitHub
           command: |
             if [ $CIRCLE_BRANCH == 'master' ]; then
-              ./s3deploy -source=./_site -region=us-east-1 -bucket=stage.deoranjebloesem.org
+              ./s3deploy -v -source=./_site -region=us-east-1 -bucket=stage.deoranjebloesem.org
             else
-              ./s3deploy -source=./_site -region=us-east-1 -bucket=stage.deoranjebloesem.org
+              ./s3deploy -v -source=./_site -region=us-east-1 -bucket=stage.deoranjebloesem.org
             fi
 workflows:
   version: 2
