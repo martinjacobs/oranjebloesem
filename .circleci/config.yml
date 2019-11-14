@@ -18,7 +18,7 @@ jobs:
               s3://stage.deoranjebloesem.org
             else
               ./s3deploy -source=./_site -region=us-east-1 -bucket=stage.deoranjebloesem.org
-	      echo "Not master branch, dry run only"
+              echo "Not master branch, dry run only"
             fi
 workflows:
   version: 2
