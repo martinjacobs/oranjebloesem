@@ -6,8 +6,8 @@ jobs:
     steps:
       - checkout
       - run: curl -L https://github.com/bep/s3deploy/releases/download/v2.0.1/s3deploy_2.0.1_Linux-64bit.tar.gz | tar xvz
-      - run: apk add --update python python-dev py-pip build-base
-      - run: pip install awscli
+#      - run: apk add --update python python-dev py-pip build-base
+#      - run: pip install awscli
       - run: bundle install
       - run: bundle exec jekyll build
       - deploy:
