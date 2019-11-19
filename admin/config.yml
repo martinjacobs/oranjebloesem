@@ -5,7 +5,8 @@ backend:
   preview_context: deploy-preview
   show_preview_links: false
   site_url: https://www.deoranjebloesem.org
-  base_url: https://1rq8xl17sf.execute-api.us-east-1.amazonaws.com/prod/
+#  base_url: https://1rq8xl17sf.execute-api.us-east-1.amazonaws.com/prod/
+  base_url: http://localhost:3000/
   auth_endpoint: auth
   site_domain: staging.deoranjebloesem.org
 
