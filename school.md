@@ -122,8 +122,7 @@ In de [Schoolgids 2018 - 2019](/leerlingen/index.html#Algemene%20Informatie/) ku
 | Naam              | Groep       |
 | ----------------- | ----------- |
 | Karolien De Corte | groep 1 & 2 |
-
-\|----
+|----
 | Marielle Mubarak   | groep 4    |
 |----
 | Virgilia Aiken   | groep 5 & 6    |
@@ -148,8 +147,7 @@ Het bestuur van het Dutch Learning Center, Inc. bestaat uit de volgende personen
 | Naam            | Funktie    |
 | --------------- | ---------- |
 | Oscar Hilderson | Secretaris |
-
-\|----
+|----
 | Greet Meeusen | Penningmeester  |
 |----
 | Bjorn Vandemeulenbroucke  | Bestuurslid  |
