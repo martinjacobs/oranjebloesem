@@ -122,7 +122,8 @@ In de [Schoolgids 2018 - 2019](/leerlingen/index.html#Algemene%20Informatie/) ku
 | Naam              | Groep       |
 | ----------------- | ----------- |
 | Karolien De Corte | groep 1 & 2 |
-|----
+
+\|----
 | Marielle Mubarak   | groep 4    |
 |----
 | Virgilia Aiken   | groep 5 & 6    |
@@ -144,10 +145,11 @@ De school/stichting is in de staat Florida geregistreerd als een ‘corporation�
 
 Het bestuur van het Dutch Learning Center, Inc. bestaat uit de volgende personen:
 
-| Naam        | Funktie    |
-| ----------- | ---------- |
-| Oscar Hilderson | Secretaris  |
-|----
+| Naam            | Funktie    |
+| --------------- | ---------- |
+| Oscar Hilderson | Secretaris |
+
+\|----
 | Greet Meeusen | Penningmeester  |
 |----
 | Bjorn Vandemeulenbroucke  | Bestuurslid  |
@@ -156,7 +158,7 @@ Het bestuur van het Dutch Learning Center, Inc. bestaat uit de volgende personen
 |=====
 {: rules="groups"}
 
-De belangrijkste taak van het bestuur is het maken van een beleid en het toezicht houden op de uitvoering daarvan. De directrice van de school, met haar team, voert dit beleid uit. De directrice is met name verantwoordelijk voor de opzet, de uitvoering en de inbedding van het onderwijsbeleid. Voor bestuurlijke vragen is Sylvie Bove het aanspreekpunt. Heeft u financiële vragen, dan kunt u direct contact opnemen met Greet Meeusen . Voor vragen m.b.t. het onderwijs en het reilen en zeilen op de school kunt u bij de leerkracht van de groep of de directrice terecht.
+De belangrijkste taak van het bestuur is het maken van een beleid en het toezicht houden op de uitvoering daarvan. De directrice van de school, met haar team, voert dit beleid uit. De directrice is met name verantwoordelijk voor de opzet, de uitvoering en de inbedding van het onderwijsbeleid. Voor bestuurlijke vragen is Oscar Hilderson het aanspreekpunt. Heeft u financiële vragen, dan kunt u direct contact opnemen met Greet Meeusen . Voor vragen m.b.t. het onderwijs en het reilen en zeilen op de school kunt u bij de leerkracht van de groep of de directrice terecht.
 
 ## NOB
 
