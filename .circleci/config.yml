@@ -16,7 +16,7 @@ jobs:
           name: Deploy Release to GitHub
           command: |
             if [ $CIRCLE_BRANCH == 'master' ]; then
-               aws s3 sync _site s3://stage.deoranjebloesem.org
+               aws s3 sync _site s3://www.deoranjebloesem.org
               # ./s3deploy -v -source=./_site -region=us-east-1 -bucket=stage.deoranjebloesem.org -max-delete=0
             else
                aws s3 sync _site s3://stage.deoranjebloesem.org
