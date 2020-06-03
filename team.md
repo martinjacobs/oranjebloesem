@@ -1,16 +1,11 @@
 ---
-layout: page
-permalink: /team/index.html
 title: Het onderwijsteam
 tagline: Het onderwijsteam
-tags: 
+permalink: /team/index.html
+layout: page
 modified: 9-9-2013
-comments: false
 image:
   feature: canal.jpg
-mapping:
-    latitude: 26.078351
-    longitude: -80.265830
 ---
 
 
@@ -39,16 +34,7 @@ Als ouder ben ik steeds actief geweest in de scholen van onze 3 kinderen zowel i
 Naast bezige mama, ben ik ook een mompreneur aka zelfstandig  health and fitness Coach met Beachbody. Net zoals jullie kijk ik enorm uit het nieuwe schooljaar en start.
 
 
-## Karolien De Corte 
 
-###### Groep 1 & 2 
-
-Mijn naam is Karolien De Corte en ik ben afkomstig uit Leuven, België. Sinds augustus 2015 woon ik samen met mijn man (Oscar) en zoon (Alexander, 15 jaar) in Delray Beach. 
-
-We startten in het najaar van 2015 ons eigen catering bedrijf, Karo’s  Belgian Sweets, en brengen hiermee de beroemde Brusselse Wafels in de vorm van frietjes op de Amerikaanse markt. Daarnaast help ik mijn echtgenoot met de administratie van zijn vertalingsbureau. 
-Van opleiding ben ik kleuteronderwijzeres. Ik kijk er dan ook heel erg naar uit om na heel wat jaren afwezigheid opnieuw voor de klas te staan. In het bijzonder om de kleinste vriendjes van de Oranjebloesem de Nederlandse taal en cultuur bij te brengen. 
-
-Ik werk heel erg graag met prentenboeken als uitgangspunt om de kleintjes van groep 1 & 2 week na week een leuke en leerrijk Nederlands taalmoment te bezorgen. 
 
 
 
